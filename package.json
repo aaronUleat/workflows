@@ -6,6 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Aaron Ulate"
-  
+  "author": "Aaron Ulate",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
+  }
 }
